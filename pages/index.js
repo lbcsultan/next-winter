@@ -11,6 +11,7 @@ export default function Home() {
     <Layout title="Home">
       <h1 className="text-3xl text-blue-800 "> Next Ecommerce </h1>
       <p>Author: Byoungcheon Lee</p>
+      <p>웹서버보안프로그래밍 겨울학기</p>
     </Layout>
   )
 }
