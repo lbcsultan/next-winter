@@ -6,7 +6,7 @@ import Layout from '../components/Layout'
 import data from '../utils/data'
 import ProductItem from '../components/ProductItem'
 
-const inter = Inter({ subsets: ['latin'] })
+// const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
